@@ -1,0 +1,11 @@
+Dev 
+172.16.100.108
+tnuser/tnuser
+
+
+America DEV
+hqd-graphapi-01
+LDAP
+
+配置eclipse中 dubug的arguments参数
+-DUSER_CONFIG_PATH_URI=D:\home\tnuser\config\UserService\LOCAL\ -Ddatacenter=DC-US-WEST
