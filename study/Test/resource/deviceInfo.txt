@@ -1,0 +1,3 @@
+GetActiveReceiptsRequest.json
+LoginRequest.json
+SaveReceiptRequest.json
