@@ -1,0 +1,12 @@
+提交过
+	创建review
+	选定项目		
+	browse changeset
+	选择选定的文件。
+未提交
+	创建
+	选定pre
+	选择文件
+	svn create patch
+	upload
+	
