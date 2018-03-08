@@ -1,0 +1,31 @@
+Hi Team,
+ 
+As part of our commitment to partners, we are required to take Security Awareness training on an annual basis – please finalize your training by end of February 2018.
+Given the issues we had in this domain I want to highlight that we need to take this really seriously (and I think it’s also a valuable skill for all of us to enhance, so I hope you enjoy that).
+ 
+Please note that this is mandatory, and I asked Gary to brief me on completion of those courses and we will follow-up with everybody who has not.
+ 
+Optiv Cyber Security eLearning Course Description
+Telenav has contracted with Optiv Security Inc. for Security Awareness eLearning courses for its employees. The courses are in two categories:
+ 
+·         Cyber Bot Security Awareness eLearning Course (04 Modules)
+o   Email Security
+o   Password Security
+o   Social Engineering
+o   Workplace Security
+·         Developer eLearning Course (02 Modules).
+o   OWASP Top 10
+o   Mobile Security Top 11
+ 
+  
+The courses are online and can be completed at your own pace. A course is deemed to be completed once you download the course completion certificate.
+ 
+ 
+ 
+ 
+URL: https://lms.optivlearning.com/telenav/
+ 
+Login Credentials:
+ 
+hengzhang@telenav.cn
+Password:  P@淘宝账号
