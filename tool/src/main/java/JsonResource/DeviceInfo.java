@@ -22,7 +22,8 @@ public class DeviceInfo {
 		final List<String> results = new ArrayList<>();
 		//init the json name
 		final FileTest filetest = new FileTest();
-		final List<String> names = filetest.readFilesTest("./resource/resource.txt");
+
+		final List<String> names = filetest.readFilesTest("src/main/resource/resource.txt");
 		//sent a restful request
 		for (final String name : names) {
 			final HttpClient httpclient = HttpClients.createDefault();
