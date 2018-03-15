@@ -6,7 +6,7 @@ public class SystemProperty {
 		System.setProperty("GRAPH_CONFIG_PATH_URI", "/Users/hengzhang/Desktop/");
 		System.setProperty("datacenter", "DC-UC-WEST");
 	}
-
+	//到此处结束
 	private static final String KEY_DATACENTER = "datacenter";
 	private static final String CONFIG_URI_PROPERTY_KEY = "GRAPH_CONFIG_PATH_URI";
 	private static final String CONFIG_REFRESH_DELAY_KEY = "CONFIG_REFRESH_DELAY_IN_MILLIS";
